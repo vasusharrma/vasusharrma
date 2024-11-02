@@ -1,5 +1,5 @@
 <p align='center'><img  src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" alt="Masterhead Image" width="60%"  /></p>
-<h1 align="center">Hi 👋, I'm VASU</h1>
+<h1 align="center">Hi 👋, There</h1>
 <h3 align="center">A passionate STUDENT</h3>
 <img align='right' alt='code' width='400' src='https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif'>
 
